@@ -20,7 +20,7 @@
 
 @font-face{
   font-family: F1-fonts-regular;
-  src : url('/UpConstruction/assets/fonts/Formula1-Regular.otf');
+  src : url(../fonts/Formula1-Regular.otf);
 }
 
 @font-face{
